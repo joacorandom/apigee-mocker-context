@@ -2,7 +2,7 @@ let values = {};
 
 const context = {
     setVariable: (key, value) => {
-        values[key] = value;
+        values[key] = value && value.toString();
     },
     getVariable: (key) => {
         if(typeof values[key] === 'undefined') {
