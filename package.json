@@ -1,0 +1,18 @@
+{
+  "name": "apigee-mocker-context",
+  "version": "0.1.0",
+  "description": "Node utility for unit testing JS files created on Apigee.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joacorandom/apigee-mocker-context.git"
+  },
+  "author": "Joaquin Salazar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joacorandom/apigee-mocker-context/issues"
+  },
+  "homepage": "https://github.com/joacorandom/apigee-mocker-context#readme"
+}
